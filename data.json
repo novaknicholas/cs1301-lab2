@@ -1,0 +1,135 @@
+{
+    "waterfalls": [
+        {
+            "name": "Angel Falls",
+            "height": 979,
+            "country": "Venezuela",
+            "continent": "South America",
+            "latitude": 5.9675,
+            "longitude": -62.53556
+        },
+        {
+            "name": "Tugela Falls",
+            "height": 948,
+            "country": "South Africa",
+            "continent": "Africa",
+            "latitude": -28.7522,
+            "longitude": 28.8941
+        },
+        {
+            "name": "Yosemite Falls",
+            "height": 739,
+            "country": "United States",
+            "continent": "North America",
+            "latitude": 37.756845,
+            "longitude": -119.596785
+        },
+        {
+            "name": "Sutherland Falls",
+            "height": 580,
+            "country": "New Zealand",
+            "continent": "Oceania",
+            "latitude": -44.800223,
+            "longitude": 167.730211
+        },
+
+        {
+            "name": "Sissu Falls",
+            "height": 50,
+            "country": "India",
+            "continent": "Asia",
+            "latitude": 32.46593,
+            "longitude": 77.12229
+        },
+
+        {
+            "name": "Kaieteur Falls",
+            "height": 226,
+            "country": "Guyana",
+            "continent": "South America",
+            "latitude": 5.175,
+            "longitude": -59.4805
+        },
+        
+        {
+            "name": "Victoria Falls",
+            "height": 108,
+            "country": "Zambia/Zimbabwe",
+            "continent": "Africa",
+            "latitude": -17.92453,
+            "longitude": 25.85539
+        },
+        {
+            "name": "Iguazu Falls",
+            "height": 82,
+            "country": "Argentina/Brazil",
+            "continent": "South America",
+            "latitude": -25.6939,
+            "longitude": -54.4365
+        },
+        {
+            "name": "Veliki Slap",
+            "height": 87,
+            "country": "Croatia",
+            "continent": "Europe",
+            "latitude": 44.903018,
+            "longitude": 15.609118
+        },
+        {
+            "name": "Skogafoss",
+            "height": 60,
+            "country": "Iceland",
+            "continent": "Europe",
+            "latitude": 63.532111,
+            "longitude": -19.511139
+        },
+        {
+            "name": "Dettifoss",
+            "height": 44,
+            "country": "Iceland",
+            "continent": "Europe",
+            "latitude": 65.814667,
+            "longitude": -16.384472
+        },
+        {
+            "name": "Ban Gioc-Detian Falls",
+            "height": 30,
+            "country": "Vietnam/China",
+            "continent": "Asia",
+            "latitude": 22.8564,
+            "longitude": 106.722
+        },
+        {
+            "name": "Jeongbang Waterfall",
+            "height": 23,
+            "country": "South Korea",
+            "continent": "Asia",
+            "latitude": 33.244649,
+            "longitude": 126.571662
+        },
+        {
+            "name": "McWay Falls",
+            "height": 24,
+            "country": "United States",
+            "continent": "North America",
+            "latitude": 36.1586,
+            "longitude": -121.6717
+        },
+        {
+            "name": "Havasu Falls",
+            "height": 30,
+            "country": "United States",
+            "continent": "North America",
+            "latitude": 36.255,
+            "longitude": -112.697
+        },
+        {
+            "name": "Kuang Si Falls",
+            "height": 50,
+            "country": "Laos",
+            "continent": "Asia",
+            "latitude": 19.749,
+            "longitude": 101.992
+        }
+    ]
+}
